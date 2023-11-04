@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+Adding_MongoDB_to_Heroku.md
+.gitignore
+INSTRUCTIONS.md
